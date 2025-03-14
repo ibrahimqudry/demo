@@ -1,0 +1,16 @@
+git clone https://github.com/ibrahimqudry/Eventra_Web.git
+
+
+clone  /  add   / commit  / push  / pull  /  Pull Request /  branch  /  .gitigonre
+-----------------------------------------------------------------------------------
+
+
+
+
+** Configurations
+** Public Key
+** Pull Request
+** Aliases
+** Stash
+** Tagging And Releasing
+
